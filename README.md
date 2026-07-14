@@ -5,3 +5,5 @@ Install Modules:
 speech_recognition
 pyautogui
 google.generativeai
+
+Please review the code properly and add the missing segments that I have commented out.
